@@ -1,3 +1,7 @@
+admin Credential :
+Email id :ADMIN
+pass :admin
+
 Teacher Credential : 
 Email Id : jaydeeppatil@gmail.com
 Pass : 7447
