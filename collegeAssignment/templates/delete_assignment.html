@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset=""UTF-8>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>delete assignment</title>
+    </head>
+    <body>
+        <h2>Delete assignment</h2>
+        <p>are you want to sure delete the assignment: <strong>{{ assignment.title }}</strong>?</p>
+
+        <form method="POST">
+            {% csrf_token %}
+            <button type=""submit"> yes,delete</button>
+            <a href="{% url 'assignment_list' %}">cancle</a>
+        </form>
+    </body>
+</html>
