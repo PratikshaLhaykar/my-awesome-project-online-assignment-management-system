@@ -3,8 +3,8 @@ Email id :ADMIN
 pass :admin
 
 Teacher Credential : 
-Email Id : sachinPatil@gmail.com
-Pass : 010101
+Email Id : sangrampatil@gmail.com
+Pass : 1720
 
 Student Login Credential:
 Email Id: pratikshalhaykar@gmail.com
